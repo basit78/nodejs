@@ -1,0 +1,17 @@
+{
+  "name": "saylani-learning",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app"
+    
+  },
+  "author": "A.Basit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
